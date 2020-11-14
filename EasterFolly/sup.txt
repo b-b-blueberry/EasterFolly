@@ -1,0 +1,15 @@
+﻿Easter event
+		✔	Egg basket
+		✔	Chocolate eggs
+		✔	Bunny ears? You bet
+			Dialogue
+			✔	Bunny intro
+				Bunny mid-progress
+				Bunny outro
+			✔	Villager responses
+			Code
+				Spawn in eggs
+			✔	Villager responses
+			Easter bunny sprite
+				Idle: Look left, look right, hop
+				Poof in/out

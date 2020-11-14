@@ -1,0 +1,10 @@
+﻿{
+    "Name": "EasterFolly",
+    "Author": "blueberry",
+    "Version": "1.0.0",
+    "Description": "Adds a new event after the Egg Festival...",
+    "UniqueID": "blueberry.EasterFolly",
+    "EntryDll": "EasterFolly.dll",
+    "MinimumApiVersion": "2.11",
+    "UpdateKeys": [ "Nexus:" ]
+}
